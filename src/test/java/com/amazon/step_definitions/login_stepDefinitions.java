@@ -4,10 +4,7 @@ import com.amazon.pages.LoginPage;
 import com.amazon.utilities.BrowserUtils;
 import com.amazon.utilities.ConfigurationReader;
 import com.amazon.utilities.Driver;
-import io.cucumber.java.en.And;
-import io.cucumber.java.en.Given;
-import io.cucumber.java.en.Then;
-import io.cucumber.java.en.When;
+import io.cucumber.java.en.*;
 import org.junit.Assert;
 
 public class login_stepDefinitions {
